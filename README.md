@@ -1,3 +1,4 @@
 # git-grammar
-第一次创建github仓库
-学习使用github笔记
+### 第一次创建github仓库<br>
+1.markdown的一些格式用法小记录<br>
+2.学习使用github**笔记**
